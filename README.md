@@ -1,3 +1,2 @@
 # firstrip
 
-olive
